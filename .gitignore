@@ -13,3 +13,10 @@ sdkconfig.old
 # OS
 .DS_Store
 Thumbs.db
+#hardware
+# KiCad
+*-backups/
+.history/
+*.kicad_prl
+fp-info-cache
+*.lck
