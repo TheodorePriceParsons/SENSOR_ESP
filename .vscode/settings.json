@@ -9,7 +9,7 @@
     "--query-driver=**",
     "--compile-commands-dir=c:\\Users\\theop\\Documents\\esp_sensor\\build"
   ],
-  "idf.portWin": "COM6",
+  "idf.portWin": "COM3",
   "idf.flashType": "UART",
   "idf.openOcdConfigs": [
     "board/esp32s3-builtin.cfg"

@@ -1,0 +1,15 @@
+# ESP-IDF build output
+build/
+managed_components/
+dependencies.lock
+sdkconfig.old
+
+# Editor / IDE
+.vscode/
+.idea/
+.clangd
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
