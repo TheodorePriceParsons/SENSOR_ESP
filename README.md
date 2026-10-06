@@ -1,17 +1,8 @@
-# SENSOR_ESP
+# Robot Summer
 
 Sensor board firmware and PCB for our ENPH 253 (UBC Engineering Physics, summer 2026) competition robot. An ESP32-S3 detects the 1 kHz and 10 kHz IR beacons, measures two metal-detector oscillators to find aluminium in rocks, and streams the results to the main ESP over UART.
 
-<table>
-  <tr>
-    <td align="center" width="50%"><img src="Images/Robot.jpg" alt="Competition robot, side view"></td>
-    <td align="center" width="50%"><img src="Images/robot_2.jpg" alt="Competition robot, front view"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Mecanum drive base with the gripper arm and one metal-detector coil</sub></td>
-    <td align="center"><sub>Front view: both detector coils, power and beacon-select switches</sub></td>
-  </tr>
-</table>
+<table> <tr> <td align="center" width="50%"><img src="Images/Robot.jpeg" alt="Competition robot, side view"></td> <td align="center" width="50%"><img src="Images/robot_2.jpg" alt="Competition robot, front view"></td> </tr> <tr> <td align="center"><sub>Mecanum drive base with the gripper arm and one metal-detector coil</sub></td> <td align="center"><sub>Front view: both detector coils, power and beacon-select switches</sub></td> </tr> </table>
 
 ## Sensor board
 
